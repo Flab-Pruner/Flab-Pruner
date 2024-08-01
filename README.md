@@ -30,14 +30,6 @@ We introduce Flab-Pruner, a structural pruning approach that enhances efficiency
 ### Post Training
 >see examples in run_lora.py
 
-### How to use tuned model
-Here is an example to get started with CodeQwen1.5-5.58B-Instruct-V1 using the [transformers](https://huggingface.co/docs/transformers/index) library:
-
-```python
-import transformers
-import torch
-
-```
 
 ## Evaluation
 
