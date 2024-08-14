@@ -12,7 +12,7 @@
 
 We design an **new algorithm** for data selection to address the problem of model performance recovery after pruning. 
 
-<img src="./demo.png" alt="./demo.png" style="zoom:5%;" />
+<img src="./demo.png" alt="./demo.png" style="zoom:2%;" />
 
 We release the new 5.7B-size model Flab-CQ-V1.5(https://huggingface.co/Flab-Pruner/Flab-CQ-V1.5) based on this algorithm, which can get **83.54** pass@1 on HumanEval.
 
